@@ -11,7 +11,6 @@ This is a network scanner tool implemented in C#. It allows you to scan your loc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -31,10 +30,6 @@ To use the Network Scanner Tool, simply clone the repository and open the projec
 - Scans the local network for online hosts.
 - Identifies the MAC address and vendor information of each online host.
 - Checks for open ports on the online hosts.
-
-## Demo
-
-[Include a link to a live demo or a video demonstrating your project in action, if available.]
 
 ## Contributing
 
